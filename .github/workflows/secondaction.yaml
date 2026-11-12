@@ -14,5 +14,6 @@ jobs:
 
       - name: display contents of list.txt
         run: cat ./github/workflows/list.txt
+        run: cat ./code/list.txt
 
       - run: echo "I am step 4!"
