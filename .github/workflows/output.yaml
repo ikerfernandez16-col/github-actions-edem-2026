@@ -1,5 +1,4 @@
-name: Output demo
-
+name: Se acabo la fiesta
 on:
   workflow_dispatch:
 
